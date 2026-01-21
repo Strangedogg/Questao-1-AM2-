@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/24773520/README.md)
+
 # Questao-1-AM2-
 Entrega da Primeira questão da prova final de Autoração Multimídia 2
 ## Equipe:
